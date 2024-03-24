@@ -184,7 +184,7 @@ Chunk Pregenerator (Chunky, WorldBorder, etc):
   - [Chunky Auto Start/Stop Extension](https://modrinth.com/mod/chunky-extension)
 - [Fabric/Quilt Chunk Pregenerator](https://modrinth.com/mod/fabricquilt-chunk-pregenerator)
 
-[^1]: [PolyMc](https://github.com/TheEpicBlock/PolyMc) and [Polymer](https://modrinth.com/mod/polymer) resourcepacks can not be applied to [Geyser](https://modrinth.com/mod/geyser)
+[^1]: [PolyMc](https://github.com/TheEpicBlock/PolyMc) resourcepacks currently can not be applied to [Geyser](https://modrinth.com/mod/geyser) more on this [here](https://theepicblock.github.io/PolyMc/faq/) and to [Polymer](https://modrinth.com/mod/polymer) too
 [^2]: [Polymer](https://modrinth.com/mod/polymer) by itself can't do things like ItemsAdder or Oraxen, it's a library to create serverside contents, in which a lot of IA/Oraxen-like mods that uses resourcepacks depends to. For list of the mods, [Polymer Dependants](https://modrinth.com/collection/hvT46U6D), [Polymer Ports and Patches](https://modrinth.com/collection/kXdqNZTO)
 [^3]: Requires [Polymer](https://modrinth.com/mod/polymer), you also need to learn [BlockBench](https://www.blockbench.net) and it's plugin [Animated Java](https://animated-java.dev)
 [^4]: As of 1.20, Minecraft has rewritten light engine is a similar way to Starlight's, [more on this here](https://gist.github.com/Spottedleaf/6cc1acdd03a9b7ac34699bf5e8f1b85c). So you don't need this on versions above 1.20
