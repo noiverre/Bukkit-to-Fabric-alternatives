@@ -17,9 +17,18 @@ Some of the listed mods might not be the most performance efficient when compare
 
 Some may require extra steps, see footnotes
 
-_"There is a [better list](https://serverside.infra.link), why creating a new one?"_
+## Questions
+> "There is a [better list](https://serverside.infra.link), why creating a new one?"
 
 This list is focused on finding *replacements* of popular Bukkit plugins to Fabric mods, without listing every serverside mods available in Modrinth/Curseforge
+
+> "Why would you want to install all these stuff on Fabric while you can just use PaperMC that is faster and easy to use?"
+
+There are various reason for server admins to try creating a Fabric server while also allowing vanilla clients to join
+
+Perhaps you want to try something new other than Bukkit. Perhaps you want to see how Fabric servers performs in comparison to Paper or Purpur. Perhaps you want to entertain your server members by giving them new blocks items and such with Polymer dependants mods such as [this](https://modrinth.com/mod/cc-polymer).
+
+While I do agree Paper is very efficient (and Folia too), it's worth to try doing *modded content* Fabric server for vanilla clients at least once, in my opinion it's fun
 
 You can also check out these cool lists:
 - [Fabric Serverside Mods](https://serverside.infra.link)
@@ -189,7 +198,7 @@ Chunk Pregenerator (Chunky, WorldBorder, etc):
 [^1]: [PolyMc](https://github.com/TheEpicBlock/PolyMc) resourcepacks currently can not be applied to [Geyser](https://modrinth.com/mod/geyser) more on this [here](https://theepicblock.github.io/PolyMc/faq/). [Polymer](https://modrinth.com/mod/polymer) may be affected too
 [^2]: [Polymer](https://modrinth.com/mod/polymer) by itself can't do things like ItemsAdder or Oraxen, it's a library to create serverside contents, in which a lot of IA/Oraxen-like mods that uses resourcepacks depends to. For list of the mods, [Polymer Dependants](https://modrinth.com/collection/hvT46U6D), [Polymer Ports and Patches](https://modrinth.com/collection/kXdqNZTO)
 [^3]: Requires [Polymer](https://modrinth.com/mod/polymer), you also need to learn [BlockBench](https://www.blockbench.net) and it's plugin [Animated Java](https://animated-java.dev)
-[^4]: As of 1.20, Minecraft has rewritten light engine is a similar way to Starlight's, [more on this here](https://gist.github.com/Spottedleaf/6cc1acdd03a9b7ac34699bf5e8f1b85c). So you don't need this on versions above 1.20
+[^4]: As of 1.20, Minecraft has rewritten light engine is a similar way to Starlight's, more on this [here](https://gist.github.com/Spottedleaf/6cc1acdd03a9b7ac34699bf5e8f1b85c). So you don't need this on versions above 1.20
 [^5]: As of 1.19.4, "Mojang has significantly optimized DFU initialization enough that this mod is no longer necessary in many configurations." So you don't need this on versions above 1.19.4
 [^6]: Incompatible with C2ME
 [^7]: Some patches lithium offers may break other mods or vanilla behavior, but you can configure them
