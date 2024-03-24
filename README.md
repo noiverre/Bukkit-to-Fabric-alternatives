@@ -130,8 +130,8 @@ Patches/Optimizations:[^11]
 - [AntiXray](https://modrinth.com/mod/anti-xray)
 - [Alternate Current](https://modrinth.com/mod/alternate-current)
 - [Entity View Distance](https://modrinth.com/mod/entity-view-distance)
-- [Per Player Mob Spawns](https://github.com/vlad2305m/fabric-per-player-spawns)
-- [Proper Mbo Cap Modifier](https://modrinth.com/mod/proper-mobcap-modifier)
+- [Per Player Mob Spawns](https://github.com/vlad2305m/fabric-per-player-spawns)[^12]
+- [Proper Mob Cap Modifier](https://modrinth.com/mod/proper-mobcap-modifier)
 - [Recipe Cooldown](https://modrinth.com/mod/recipecooldown)
 - [Quickbench](https://modrinth.com/mod/quickbench)
 - [Audaki Cart Engine (Faster Minecarts)](https://modrinth.com/mod/audaki-cart-engine)
@@ -195,3 +195,4 @@ Chunk Pregenerator (Chunky, WorldBorder, etc):
 [^9]: Maps of the Unknown description says that "Async Locator: Yes and no. This mod cannot work when enabled with Async Locator if its exploration map and villager trade features are enabled, or you may need to toggle at least the corresponding feature of this here mod. And considering my plans for the future of this mod, they will most probably not be compatible at all on the long term. But until further notice, you may use both while validating the aforementioned conditions."
 [^10]: May break nether portal-based farms
 [^11]: I don't include [ModernFix](https://modrinth.com/mod/modernfix), [ThreadTweak](https://modrinth.com/mod/threadtweak) (a fork of [Smooth Boot (Fabric)](https://modrinth.com/mod/smoothboot-fabric) which is not required on versions above 1.19.4), [MCMTFabric](https://modrinth.com/mod/mcmtfabric), [Dimensional Threading](https://modrinth.com/mod/dimthread), as it may have issues on low threaded machine servers
+[^12]: Minecraft now has this feature on multiplayer, not sure when it was added. So you may not need this mod anymore
