@@ -10,7 +10,7 @@ This list requires more work to do, as I'm not sure if this is the best writing 
 
 The first mentioned mods don't mean that it's the better option and the rest are *alternatives*, it's just that the first mentioned mods are the easiest to find during the initial writing of this list 
 
-Try to avoid hybrid Hybrid<->Fabric server softwares, I don't forbid, the choice is yours
+Try to avoid hybrid Bukkit<->Fabric server softwares, I don't forbid, the choice is yours
 - [Cardboard/Banner](https://gist.github.com/Patbox/e44844294c358b614d347d369b0fc3bf)
 
 Some of the listed mods might not be the most performance efficient when compared to other existing mods
