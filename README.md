@@ -17,6 +17,13 @@ Some of the listed mods might not be the most performance efficient when compare
 
 Some may require extra steps, see footnotes
 
+You can also check out these cool lists:
+- [Fabric Serverside Mods](https://serverside.infra.link)
+- [Optifine Alternatives](https://optifine.alternatives.lambdaurora.dev)
+- [Useful Fabric Mod List](https://github.com/TheUsefulLists/UsefulMods)
+- [Fabric/Quilt Server Optimization](https://gist.github.com/Obydux/55b967f5dcc00633fe895e5a473363d5)
+- [Fabric Client Optimization Guide](https://gist.github.com/HexedHero/aab340a84db51913cb1106c2d85f4e4f)
+
 ## Questions
 > "There is a [better list](https://serverside.infra.link), why creating a new one?"
 
@@ -26,16 +33,9 @@ This list is focused on finding *replacements* of popular Bukkit plugins to Fabr
 
 There are various reason for server admins to try creating a Fabric server while also allowing vanilla clients to join
 
-Perhaps you want to try something new other than Bukkit. Perhaps you want to see how Fabric servers performs in comparison to Paper or Purpur. Perhaps you want to entertain your server members by giving them new blocks items and such with Polymer dependants mods such as [this](https://modrinth.com/mod/cc-polymer).
+Perhaps you want to try something new other than Bukkit. Perhaps you want to see how Fabric servers performs in comparison to Paper or Purpur. Perhaps you want to entertain your server members by giving them new blocks, items and such without having to install mods by using Polymer dependants mods such as [this](https://modrinth.com/mod/cc-polymer).
 
 While I do agree Paper is very efficient (and Folia too), it's worth to try doing *modded content* Fabric server for vanilla clients at least once, in my opinion it's fun
-
-You can also check out these cool lists:
-- [Fabric Serverside Mods](https://serverside.infra.link)
-- [Optifine Alternatives](https://optifine.alternatives.lambdaurora.dev)
-- [Useful Fabric Mod List](https://github.com/TheUsefulLists/UsefulMods)
-- [Fabric/Quilt Server Optimization](https://gist.github.com/Obydux/55b967f5dcc00633fe895e5a473363d5)
-- [Fabric Client Optimization Guide](https://gist.github.com/HexedHero/aab340a84db51913cb1106c2d85f4e4f)
 
 ## Alternatives
 You will need [Fabric API](https://modrinth.com/mod/fabric-api) for almost every Fabric mods out there, so install it first
