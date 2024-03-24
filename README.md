@@ -40,6 +40,7 @@ Item-based Shops:
 
 Essentials:
 - [Essential Commands](https://modrinth.com/mod/essential-commands)
+- [ServerCore](https://modrinth.com/mod/servercore)
 
 Bans:
 - [Ban Hammer](https://modrinth.com/mod/banhammer)
@@ -95,7 +96,7 @@ NPCs (Citizens, ServersNPC etc)
 
 Anti Cheats:
 
-*There's no anticheats as good as what Bukkit-based anticheats has to offer, but here are few of them*
+*There are no anticheats as good as what Bukkit-based anticheats has to offer, but here are few options*
 - Port of PaperMC patch: [AntiXray](https://modrinth.com/mod/anti-xray)
 - [Plymouth: Anti-Xray](https://modrinth.com/mod/plymouth-anti-xray)
 - [GolfIV](https://modrinth.com/mod/golfiv)
@@ -110,10 +111,11 @@ Loggers (CoreProtect, Prism etc):
 Profilers (spark, Timings):
 - [spark](https://modrinth.com/mod/spark/versions)
 
-World Editing (WorldEdit, VoxelSniper etc)
+World Editing (WorldEdit, VoxelSniper etc):
 - [WorldEdit](https://modrinth.com/plugin/worldedit)
 
-Geyser/ProtocolSupport:
+Protocol Translator (GeyserMC, ViaVersion, ProtocolSupport etc):
+- [ViaFabric](https://modrinth.com/mod/viafabric)
 - [Geyser](https://modrinth.com/mod/geyser)[^1]
   - [Floodgate](https://modrinth.com/mod/floodgate)
   - [Geyser Skin Support](https://modrinth.com/mod/gsmf)
