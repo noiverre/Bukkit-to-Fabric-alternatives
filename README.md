@@ -139,8 +139,8 @@ Patches/Optimizations:[^11]
 - [Starlight](https://modrinth.com/mod/starlight)[^4]
 - [LazyDFU](https://modrinth.com/mod/lazydfu)[^5]
 - [FerriteCore](https://modrinth.com/mod/ferrite-core)
-- [Ksyxis](https://modrinth.com/mod/ksyxis)
 - [Memory Leak Fix](https://modrinth.com/mod/memoryleakfix)
+- [Ksyxis](https://modrinth.com/mod/ksyxis)
 - [Krypton](https://modrinth.com/mod/krypton/versions)
 - [Chunkumulator](https://modrinth.com/mod/chunkumulator)[^6]
 - [Noisium](https://modrinth.com/mod/noisium)
@@ -155,7 +155,7 @@ Patches/Optimizations:[^11]
 - [Icterine](https://modrinth.com/mod/icterine)
 - [Disable Portal Checks](https://modrinth.com/mod/disable-portal-checks)[^10]
 - [Optimized Dragon Respawn](https://modrinth.com/mod/chunky-extension)
-- [antibat](https://modrinth.com/mod/antibat) Why would you need a bats?
+- [antibat](https://modrinth.com/mod/antibat) Why would you need bats?
 
 Gravestones/Death Chests:
 - [Universal Graves](https://modrinth.com/mod/universal-graves)
