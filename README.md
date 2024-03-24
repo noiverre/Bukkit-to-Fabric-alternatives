@@ -40,7 +40,6 @@ Item-based Shops:
 
 Essentials:
 - [Essential Commands](https://modrinth.com/mod/essential-commands)
-- [ServerCore](https://modrinth.com/mod/servercore)
 
 Bans:
 - [Ban Hammer](https://modrinth.com/mod/banhammer)
@@ -132,6 +131,7 @@ Patches/Optimizations:[^11]
 - [AntiXray](https://modrinth.com/mod/anti-xray)
 - [Alternate Current](https://modrinth.com/mod/alternate-current)
 - [Entity View Distance](https://modrinth.com/mod/entity-view-distance)
+- [ServerCore](https://modrinth.com/mod/servercore)
 - [Per Player Mob Spawns](https://github.com/vlad2305m/fabric-per-player-spawns)[^12]
 - [Proper Mob Cap Modifier](https://modrinth.com/mod/proper-mobcap-modifier)
 - [Recipe Cooldown](https://modrinth.com/mod/recipecooldown)
