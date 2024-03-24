@@ -29,7 +29,7 @@ You can also check out these cool lists:
 - [Fabric Client Optimization Guide](https://gist.github.com/HexedHero/aab340a84db51913cb1106c2d85f4e4f)
 
 ## Alternatives
-You will need [Fabric API](https://modrinth.com/mod/fabric-api) in almost every Fabric mods out there, so install it first
+You will need [Fabric API](https://modrinth.com/mod/fabric-api) for almost every Fabric mods out there, so install it first
 
 Permissions:
 - [LuckPerms](https://modrinth.com/mod/luckperms)
@@ -104,18 +104,6 @@ SkinsRestorer:
 - [Fabric Tailor](https://modrinth.com/mod/fabrictailor)
 - [SkinRestorer](https://modrinth.com/mod/skinrestorer)
 
-Custom Blocks, Items, UI (ItemsAdder, Oraxen etc):
-- [PolyMc](https://github.com/TheEpicBlock/PolyMc)[^1]
-- [Polymer](https://modrinth.com/mod/polymer)[^1][^2]
-
-Custom Mob Models (ModelEngine, MythicMobs?):
-- [Nylon](https://modrinth.com/mod/nylon)[^3]
-
-Geyser/ProtocolSupport:
-- [Geyser](https://modrinth.com/mod/geyser)[^1]
-  - [Floodgate](https://modrinth.com/mod/floodgate)
-  - [Geyser Skin Support](https://modrinth.com/mod/gsmf)
-
 Loggers (CoreProtect, Prism etc):
 - [Ledger](https://modrinth.com/mod/ledger)
 
@@ -125,19 +113,49 @@ Profilers (spark, Timings):
 World Editing (WorldEdit, VoxelSniper etc)
 - [WorldEdit](https://modrinth.com/plugin/worldedit)
 
-Patches/Optimizations:
+Geyser/ProtocolSupport:
+- [Geyser](https://modrinth.com/mod/geyser)[^1]
+  - [Floodgate](https://modrinth.com/mod/floodgate)
+  - [Geyser Skin Support](https://modrinth.com/mod/gsmf)
+
+Custom Blocks, Items, UI (ItemsAdder, Oraxen etc):
+- [PolyMc](https://github.com/TheEpicBlock/PolyMc)[^1]
+- [Polymer](https://modrinth.com/mod/polymer)[^1][^2]
+  - [Enchanting Table & Stonecutter UI Fix](https://modrinth.com/mod/server-ui-fix)
+
+Custom Mob Models (ModelEngine, MythicMobs?):
+- [Nylon](https://modrinth.com/mod/nylon)[^3]
+
+Patches/Optimizations:[^11]
 - [AntiXray](https://modrinth.com/mod/anti-xray)
 - [Alternate Current](https://modrinth.com/mod/alternate-current)
 - [Entity View Distance](https://modrinth.com/mod/entity-view-distance)
 - [Per Player Mob Spawns](https://github.com/vlad2305m/fabric-per-player-spawns)
 - [Proper Mbo Cap Modifier](https://modrinth.com/mod/proper-mobcap-modifier)
-- [Async Locator](https://modrinth.com/mod/async-locator)
 - [Recipe Cooldown](https://modrinth.com/mod/recipecooldown)
-- [Fast Workbench](https://www.curseforge.com/minecraft/mc-mods/fastworkbench)
+- [Quickbench](https://modrinth.com/mod/quickbench)
 - [Audaki Cart Engine (Faster Minecarts)](https://modrinth.com/mod/audaki-cart-engine)
 - [Clumps (Clump XP Orbs)](https://modrinth.com/mod/clumps)
 - [Starlight](https://modrinth.com/mod/starlight)[^4]
 - [LazyDFU](https://modrinth.com/mod/lazydfu)[^5]
+- [FerriteCore](https://modrinth.com/mod/ferrite-core)
+- [Ksyxis](https://modrinth.com/mod/ksyxis)
+- [Memory Leak Fix](https://modrinth.com/mod/memoryleakfix)
+- [Krypton](https://modrinth.com/mod/krypton/versions)
+- [Chunkumulator](https://modrinth.com/mod/chunkumulator)[^6]
+- [Noisium](https://modrinth.com/mod/noisium)
+- [Lithium](https://modrinth.com/mod/lithium)[^7]
+- [Faster Random](https://modrinth.com/mod/faster-random)
+- [Get It Together, Drops! (Combine Dropped Items)](https://modrinth.com/mod/get-it-together-drops)
+- [Concurrent Chunk Management Engine (C2ME)](https://modrinth.com/mod/c2me-fabric/versions)[^8]
+- [Fastload](https://modrinth.com/mod/fastload)
+- [Very Many Players (VMP)](https://modrinth.com/mod/vmp-fabric)
+- [Async Locator](https://modrinth.com/mod/async-locator)[^9]
+- [Maps of the Unknown](https://modrinth.com/mod/bettermaps)[^9]
+- [Icterine](https://modrinth.com/mod/icterine)
+- [Disable Portal Checks](https://modrinth.com/mod/disable-portal-checks)[^10]
+- [Optimized Dragon Respawn](https://modrinth.com/mod/chunky-extension)
+- [antibat](https://modrinth.com/mod/antibat) Why would you need a bats?
 
 Gravestones/Death Chests:
 - [Universal Graves](https://modrinth.com/mod/universal-graves)
@@ -163,10 +181,17 @@ Velocity Modern Forwarding:
 Chunk Pregenerator (Chunky, WorldBorder, etc):
 - [Chunky](https://modrinth.com/plugin/chunky)
   - [Border Expansion](https://modrinth.com/plugin/chunkyborder)
+  - [Chunky Auto Start/Stop Extension](https://modrinth.com/mod/chunky-extension)
 - [Fabric/Quilt Chunk Pregenerator](https://modrinth.com/mod/fabricquilt-chunk-pregenerator)
 
 [^1]: [PolyMc](https://github.com/TheEpicBlock/PolyMc) and [Polymer](https://modrinth.com/mod/polymer) resourcepacks can not be applied to [Geyser](https://modrinth.com/mod/geyser)
 [^2]: [Polymer](https://modrinth.com/mod/polymer) by itself can't do things like ItemsAdder or Oraxen, it's a library to create serverside contents, in which a lot of IA/Oraxen-like mods that uses resourcepacks depends to. For list of the mods, [Polymer Dependants](https://modrinth.com/collection/hvT46U6D), [Polymer Ports and Patches](https://modrinth.com/collection/kXdqNZTO)
-[^3]: Requires [Polymer](https://modrinth.com/mod/polymer), you also need to learn [BlockBench](https://www.blockbench.net) and it's plugins [Animated Java](https://animated-java.dev)
+[^3]: Requires [Polymer](https://modrinth.com/mod/polymer), you also need to learn [BlockBench](https://www.blockbench.net) and it's plugin [Animated Java](https://animated-java.dev)
 [^4]: As of 1.20, Minecraft has rewritten light engine is a similar way to Starlight's, [more on this here](https://gist.github.com/Spottedleaf/6cc1acdd03a9b7ac34699bf5e8f1b85c). So you don't need this on versions above 1.20
 [^5]: As of 1.19.4, "Mojang has significantly optimized DFU initialization enough that this mod is no longer necessary in many configurations." So you don't need this on versions above 1.19.4
+[^6]: Incompatible with C2ME
+[^7]: Some patches lithium offers may break other mods or vanilla behavior, but you can configure them
+[^8]: C2ME may increase your server RAM usage possible memory leak [#159](https://github.com/RelativityMC/C2ME-fabric/issues/159) [#208](https://github.com/RelativityMC/C2ME-fabric/issues/208) link to the commit that fixes it [here](https://github.com/RelativityMC/C2ME-fabric/commit/023535551b55ab204bec5aae19660565c9cc7356)
+[^9]: Maps of the Unknown description says that "Async Locator: Yes and no. This mod cannot work when enabled with Async Locator if its exploration map and villager trade features are enabled, or you may need to toggle at least the corresponding feature of this here mod. And considering my plans for the future of this mod, they will most probably not be compatible at all on the long term. But until further notice, you may use both while validating the aforementioned conditions."
+[^10]: May break nether portal-based farms
+[^11]; I don't include [ModernFix](https://modrinth.com/mod/modernfix), [ThreadTweak](https://modrinth.com/mod/threadtweak) (a fork of [Smooth Boot (Fabric)](https://modrinth.com/mod/smoothboot-fabric) which is not required on versions above 1.19.4), [MCMTFabric](https://modrinth.com/mod/mcmtfabric), [Dimensional Threading](https://modrinth.com/mod/dimthread), as it may have issues on low threaded machine servers
