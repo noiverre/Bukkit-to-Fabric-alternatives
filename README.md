@@ -134,6 +134,7 @@ Custom Blocks, Items, UI (ItemsAdder, Oraxen etc):
   - [Enchanting Table & Stonecutter UI Fix](https://modrinth.com/mod/server-ui-fix)
 
 Custom Mob Models (ModelEngine, MythicMobs?):
+- [Blockbench Import Library](https://modrinth.com/mod/blockbench-import-library)[^3]
 - [Nylon](https://modrinth.com/mod/nylon)[^3]
 
 Patches/Optimizations:[^11]
@@ -197,7 +198,7 @@ Chunk Pregenerator (Chunky, WorldBorder, etc):
 
 [^1]: [PolyMc](https://github.com/TheEpicBlock/PolyMc) resourcepacks currently can not be applied to [Geyser](https://modrinth.com/mod/geyser) more on this [here](https://theepicblock.github.io/PolyMc/faq/). [Polymer](https://modrinth.com/mod/polymer) may be affected too
 [^2]: [Polymer](https://modrinth.com/mod/polymer) by itself can't do things like ItemsAdder or Oraxen, it's a library to create serverside contents, in which a lot of IA/Oraxen-like mods that uses resourcepacks depends to. For list of the mods, [Polymer Dependants](https://modrinth.com/collection/hvT46U6D), [Polymer Ports and Patches](https://modrinth.com/collection/kXdqNZTO)
-[^3]: Requires [Polymer](https://modrinth.com/mod/polymer), you also need to learn [BlockBench](https://www.blockbench.net) and it's plugin [Animated Java](https://animated-java.dev)
+[^3]: Requires [Polymer](https://modrinth.com/mod/polymer), you also need to learn [BlockBench](https://www.blockbench.net) and/or it's plugin [Animated Java](https://animated-java.dev). If  you don't want to use .ajmodel, then you can use .bbmodel by using Blockbench Import Library
 [^4]: As of 1.20, Minecraft has rewritten light engine is a similar way to Starlight's, more on this [here](https://gist.github.com/Spottedleaf/6cc1acdd03a9b7ac34699bf5e8f1b85c). So you don't need this on versions above 1.20
 [^5]: As of 1.19.4, "Mojang has significantly optimized DFU initialization enough that this mod is no longer necessary in many configurations." So you don't need this on versions above 1.19.4
 [^6]: Incompatible with C2ME
